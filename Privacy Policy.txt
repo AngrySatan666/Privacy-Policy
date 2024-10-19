@@ -1,0 +1,48 @@
+Privacy Policy for Character Canvas GPT
+
+Effective Date: 10/19/24
+
+This Privacy Policy describes how "Character Canvas" (referred to as “we”, “our”, or “us”) collects, uses, and protects the information of users (“you” or “user”) while interacting with our GPT (Generative Pre-trained Transformer) services. Your privacy is important to us, and we are committed to maintaining your trust by protecting your personal information. By using Character Canvas, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+Character Canvas is designed to create character profiles based on user input. We collect and store limited information related to user interaction with the GPT:
+
+User Input Data: Any text-based data you provide, such as names, descriptions, preferences, and character-related information, will be temporarily processed to generate responses.
+Generated Content: The characters and images generated based on user prompts are not stored after the session ends, unless explicitly saved by the user.
+Device and Usage Information: We may collect information about the device you are using to access our service, including IP address, browser type, and usage logs.
+We do not collect any sensitive or personally identifiable information unless it is provided as part of your text inputs (e.g., when you voluntarily provide a real name for a character).
+
+2. How We Use Your Information
+The data you provide is processed solely to:
+
+Generate character profiles, including names, traits, physical features, and backstories, as requested.
+Create digital artwork using DALL-E based on character descriptions.
+Improve the accuracy and functionality of the service based on aggregated usage statistics (non-personally identifiable data).
+We do not use your data for marketing purposes, share it with third parties (except as mentioned below), or retain it after session completion unless you explicitly save the content.
+
+3. Third-Party Services
+Character Canvas utilizes third-party tools for functionality, specifically:
+
+DALL-E: Used to generate character images based on user input. DALL-E processes the image generation request, but no personal data is shared with DALL-E outside of your text inputs for character descriptions.
+We are not responsible for the data practices of third-party services; however, we strive to ensure they maintain high standards of security and privacy.
+
+4. Data Retention and Security
+Retention: All user input and generated content are stored temporarily during the session. Once the session ends, all data is discarded unless the user saves it manually.
+Security: We use appropriate security measures to protect against unauthorized access, alteration, or destruction of the limited data we collect during your session. However, no system can guarantee 100% security, and we cannot guarantee the absolute safety of your data.
+5. User Control
+You have complete control over the data you input into Character Canvas. If you wish to ensure no personally identifiable information is used, we recommend refraining from providing any sensitive details.
+
+6. Children’s Privacy
+Character Canvas is not directed at children under the age of 13. We do not knowingly collect personal data from children. If we become aware that we have inadvertently received data from a child under 13, we will delete the information promptly.
+
+7. Your Rights
+As a user, you have the right to:
+
+Access the data processed during your session.
+Request Deletion of any data you have provided during your session by ending the session, as no data is stored once it concludes.
+Limit Data provided during interactions to protect your privacy.
+8. Changes to the Privacy Policy
+We may update this Privacy Policy periodically to reflect changes in technology, law, or our data collection practices. When we make changes, we will notify you by updating the "Effective Date" at the top of this policy. Continued use of Character Canvas after the changes are posted constitutes acceptance of the updated policy.
+
+9. Contact Us
+If you have any questions or concerns regarding this Privacy Policy or your data, please contact us at 666angrysatan@gmail.com
